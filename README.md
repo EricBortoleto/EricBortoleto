@@ -1,8 +1,6 @@
-# Olá, me chamo Eric Bortoleto ! 
-## Bem vindo ao meu perfil GitHub 👋
-
-Tenho 29 anos, moro em São Paulo/SP e estou no mundo da programação a mais de 1 ano.
-Atualmente estudo na EBAC no curso Engenheiro Front-End e na XPe Educação.
+#Olá! Seja bem-vindo(a) ao meu perfil do GitHub.
+Meu nome é Eric Bortoleto, tenho 29 anos e moro em São Paulo/SP. Há mais de 1 ano, me aventuro pelo mundo da programação e atualmente estou aprimorando minhas habilidades através do curso de Engenheiro Front-End na EBAC e também na XPe Educação. Estou animado para compartilhar meus projetos e colaborar com outros desenvolvedores da comunidade. Obrigado por visitar o meu perfil! 
+👋
 
 ## Tecnologias e Ferramentas
 
