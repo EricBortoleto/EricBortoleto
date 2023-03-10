@@ -21,5 +21,5 @@ Meu nome é Eric Bortoleto, tenho 29 anos e moro em São Caetano do Sul/SP. Há 
 <div>
 <a href="https://github.com/EricBortoleto">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EricBortoleto&&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricBortoleto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricBortoleto"/>
 </div>
